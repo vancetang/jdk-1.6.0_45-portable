@@ -1,7 +1,8 @@
 # JDK 6 免安裝版下載指南
 
-⚠️ **本專案 Clone 自 GitCode**：[GitCode 開源倉庫](https://gitcode.com/open-source-toolkit/7280d)，遵循原始專案授權協議。  
-📢 **本專案未修改原始程式碼，僅對 README 進行繁體中文化。** 
+> [!IMPORTANT]
+> ⚠️**本專案 Clone 自 GitCode**：[GitCode 開源倉庫](https://gitcode.com/open-source-toolkit/7280d)，遵循原始專案授權協議。  
+> 📢**本專案未修改原始程式碼，僅對 README 進行繁體中文化。**  
 
 歡迎來到 JDK 6 免安裝下載資源頁面。本頁面提供了一種便捷的獲取方式，專為需要使用 Java Development Kit 版本 6 的開發者和使用者設計。JDK 作為開發 Java 應用程式的基礎環境，對於軟體開發者來說是不可或缺的工具。此版本適用於希望快速啟動而無需進行複雜安裝流程的使用者。
 
